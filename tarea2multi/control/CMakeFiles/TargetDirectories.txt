@@ -1,0 +1,15 @@
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/CMakeFiles/edit_cache.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/CMakeFiles/rebuild_cache.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/CMakeFiles/list_install_components.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/CMakeFiles/install.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/CMakeFiles/install/local.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/CMakeFiles/install/strip.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/ICES__home_jorge_robocomp_components_tarea2modificada_tarea2multi_control_src.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/control.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/edit_cache.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/rebuild_cache.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/list_install_components.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/install.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/install/local.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/install/strip.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/control/src/CMakeFiles/control_autogen.dir

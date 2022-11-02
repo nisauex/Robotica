@@ -1,0 +1,3 @@
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/cmake-build-debug/CMakeFiles/tarea2multi.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jorge/robocomp/components/tarea2modificada/tarea2multi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
