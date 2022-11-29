@@ -232,7 +232,7 @@ void SpecificWorker::compute() {
     RoboCompYoloObjects::TObjects objects = yolo_detect_objects(top_rgb_frame);
 
     /// draw top image
-    //cv::imshow("top", top_rgb_frame); cv::waitKey(5);
+    cv::imshow("top", top_rgb_frame); cv::waitKey(5);
 
     /// draw yolo_objects on 2D view
     draw_objects_on_2dview(objects, RoboCompYoloObjects::TBox());
@@ -270,6 +270,7 @@ void SpecificWorker::compute() {
                                                viewer);
 
             qInfo() << __FUNCTION__ << adv << side << rot;
+            qInfo() << "Tipo: " << robot.get_current_target().type;
             try { omnirobot_proxy->setSpeedBase(side, adv, rot); }
             catch (const Ice::Exception &e) { std::cout << e.what() << "Error connecting to omnirobot" << std::endl; }
             // execute move commands
